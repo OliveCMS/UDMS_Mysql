@@ -1,2 +1,3 @@
-# UDMS_Mysql
-Mysql addon for UDMS package 
+# UDMS_MySQL
+
+MySQL addon for UDMS package
