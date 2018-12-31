@@ -1,6 +1,6 @@
 {
   "name": "olive-cms/udms-mysql",
-  "description": "Json addon for Universal data manager System",
+  "description": "MySQL addon for Universal data manager System",
   "type": "library",
   "keywords": ["Data", "Database", "Data manager", "UDMS", "Sql", "NoSQL", "mysql", "datahub", "composer", "OliveCMS"],
   "require": {
